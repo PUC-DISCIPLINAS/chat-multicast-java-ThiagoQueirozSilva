@@ -2,7 +2,7 @@
 
 O programa apresentado consciste em uma aplicação java que utiliza da biblioteca java.net para fazer conexoes UDP entre uma classe Cliente e uma Classe Servidor. É possível também fazer uma conexão multicast peer to peer entre clientes para fazer um chat de texto entre os mesmos.
 
-É apresentado no programa uma Classe Cliente para fazer que permite ao usuário criar uma sala de chat multicast, ver as salas existetentes com seus participantes, entrar em uma sala de chat multicast. Fazendo assim uma conexão com o servidor para buscar os dados.
+É apresentado no programa uma Classe Cliente para fazer que permite ao usuário criar uma sala de chat multicast, ver as salas existetentes com seus participantes e entrar em uma sala de chat multicast. Fazendo assim uma conexão com o servidor para buscar os dados.
 
 ## Autor
 
