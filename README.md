@@ -15,7 +15,7 @@ O programa apresentado consciste em uma aplicação java que utiliza da bibliote
 ## Instruções de utilização
 
 Para se iniciar o programa entre na pasta bin do programa pelo terminal e digite o comando "java redes.Server" para entao rodar o servidor.
-Para rodar o cliente basta entrar na pasta bin e digitar o comando "java redes.Client localhost" em um outro terminal, pode-se rodar varios clientes de uma vez mas apenas um servidor. Apos inicial a aplicacao basta seguir as instruções que serão dadas dentro do programa.
+Para rodar o cliente basta entrar na pasta bin e digitar o comando "java redes.Client localhost" em um outro terminal, pode-se rodar varios clientes de uma vez mas apenas um servidor. Apos iniciada a aplicacao basta seguir as instruções que serão dadas dentro do programa.
 
 
 ## Protocolo
