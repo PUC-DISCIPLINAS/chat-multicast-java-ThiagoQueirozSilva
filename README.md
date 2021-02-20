@@ -21,9 +21,14 @@ Para rodar o cliente basta entrar na pasta bin e digitar o comando "java redes.C
 ## Protocolo
 
 CREATE - comando que é passado ao servido para criar uma sala de chat multicast.
+
 JOIN ROOM - comando que é passado ao servidor para adicionar um usuário a uma sala de chat multicast.
+
 LIST ROOMS - comando que é passado ao servido para listar a lista de salas disponiveis junto aos seus participantes.
+
 EXIT - comando passado para encerrar a aplicacao cliente.
+
 LEAVE ROOM - comando passado para retirar um usuário de uma sala de chat.
+
 MESSAGE - se estiver dentro da sala de multicast o usuario pode enviar mensagens para os outros participantes.
 
