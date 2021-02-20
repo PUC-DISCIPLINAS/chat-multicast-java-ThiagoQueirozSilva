@@ -18,7 +18,7 @@ Para se iniciar o programa entre na pasta bin do programa pelo terminal e digite
 Para rodar o cliente basta entrar na pasta bin e digitar o comando "java redes.Client localhost" em um outro terminal, pode-se rodar varios clientes de uma vez mas apenas um servidor. Apos iniciada a aplicacao basta seguir as instruções que serão dadas dentro do programa.
 
 
-## Protocolo
+## Comandos
 
 CREATE - comando que é passado ao servido para criar uma sala de chat multicast.
 
